@@ -1,0 +1,37 @@
+-- import: fifthtry.github.io/doc-site as ds
+-- import: expander/assets
+-- import: gargajit.github.io/expander as e
+-- import: fifthtry.github.io/admonitions as ad
+-- import: fastn-community.github.io/winter-cs as my-cs
+
+
+-- ds.page: Mehul Darshni
+site-logo: $assets.files.homelogo.jpg
+colors: $my-cs.main
+
+
+
+
+
+ hey this is a page i have created using fastn it is easy to use and effective framework.
+
+-- ds.h1: About Myself
+
+- html
+- css
+- javaScript
+
+
+-- e.box: about me
+
+welcome to the future of frontend development i am mehul darshni a fronted developer 
+
+-- e.box: tech i know
+
+html , css ,javascript, react
+
+-- ad.info:  admonition box 
+
+023-05-19T11:13:04Z INFO ] "GET /-/fifthtry.github.io/doc-site/static/editor-icon-dark.svg HTTP/1.1" 2.312959s 200 2934 127.0.0.1 "http://127.0.0.1:8000/demo" "Mozilla/5.0 (X11; Linux x86_64) AppleWeb
+
+-- end:ds.page

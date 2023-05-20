@@ -1,0 +1,13 @@
+-- import: fastn
+
+-- fastn.package: expander
+
+-- fastn.dependency: fifthtry.github.io/doc-site
+
+-- fastn.dependency: gargajit.github.io/expander
+
+-- fastn.dependency: fifthtry.github.io/admonitions
+
+-- fastn.dependency: fastn-community.github.io/winter-cs
+
+-- fastn.dependency: fastn-community.github.io/dark-flame-cs
