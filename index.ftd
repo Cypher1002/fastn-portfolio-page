@@ -1,12 +1,12 @@
 -- import: fifthtry.github.io/doc-site as ds
--- import: expander/assets
+-- import: Cypher1002.gihub.io/assets 
 -- import: gargajit.github.io/expander as e
 -- import: fifthtry.github.io/admonitions as ad
 -- import: fastn-community.github.io/winter-cs as my-cs
 
 
 -- ds.page: Mehul Darshni
-site-logo: $assets.files.homelogo.jpg
+site-logo: $assets.files.images.homelogo.jpg
 colors: $my-cs.main
 
 
